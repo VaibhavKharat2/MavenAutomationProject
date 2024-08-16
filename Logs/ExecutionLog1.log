@@ -1,0 +1,28 @@
+2024-08-12 21:27:13,009 [main] INFO CoverFoxTest - Opening Browser
+2024-08-12 21:27:29,386 [main] INFO CoverFoxTest - Clicking On the next Button
+2024-08-12 21:27:30,064 [main] INFO CoverFoxTest - Clicking On the next Button
+2024-08-12 21:27:30,073 [main] WARN CoverFoxTest - Enter age between 18 to 90
+2024-08-12 21:27:35,445 [main] INFO CoverFoxTest - Selecting the age from dropdown
+2024-08-12 21:27:37,504 [main] INFO CoverFoxTest - Clicking On the next Button
+2024-08-12 21:27:37,507 [main] WARN CoverFoxTest - Enter valid PinCode & MobNumber
+2024-08-12 21:27:40,362 [main] INFO CoverFoxTest - Entering PinCode & MobNumber
+2024-08-12 21:27:40,937 [main] INFO CoverFoxTest - Clicking On the continue Button
+2024-08-12 21:27:48,161 [main] INFO CoverFoxTest - Validating Banners
+2024-08-12 21:27:48,287 [main] INFO CoverFoxTest - Validating testPlan element
+2024-08-12 21:27:53,200 [main] INFO CoverFoxTest - Closing the browser
+2024-08-12 21:49:38,026 [main] INFO CoverFoxTest - Opening Browser
+2024-08-12 21:49:42,474 [main] INFO CoverFoxTest - Clicking On the next Button
+2024-08-12 21:50:55,820 [main] INFO CoverFoxTest - Opening Browser
+2024-08-12 21:50:59,084 [main] INFO CoverFoxTest - Clicking On the next Button
+2024-08-12 21:52:48,838 [main] INFO CoverFoxTest - Opening Browser
+2024-08-12 21:53:06,254 [main] INFO CoverFoxTest - Clicking On the next Button
+2024-08-12 21:53:06,333 [main] INFO CoverFoxTest - Clicking On the next Button
+2024-08-12 21:53:06,338 [main] WARN CoverFoxTest - Enter age between 18 to 90
+2024-08-12 21:53:12,571 [main] INFO CoverFoxTest - Selecting the age from dropdown
+2024-08-12 21:53:14,666 [main] INFO CoverFoxTest - Clicking On the next Button
+2024-08-12 21:53:14,669 [main] WARN CoverFoxTest - Enter valid PinCode & MobNumber
+2024-08-12 21:53:16,339 [main] INFO CoverFoxTest - Entering PinCode & MobNumber
+2024-08-12 21:53:16,416 [main] INFO CoverFoxTest - Clicking On the continue Button
+2024-08-12 21:53:22,496 [main] INFO CoverFoxTest - Validating Banners
+2024-08-12 21:53:22,589 [main] INFO CoverFoxTest - Validating testPlan element
+2024-08-12 21:53:26,288 [main] INFO CoverFoxTest - Closing the browser

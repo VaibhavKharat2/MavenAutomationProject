@@ -1,0 +1,28 @@
+2024-08-12 21:27:13,009 - CoverFoxTest -INFO - Opening Browser
+2024-08-12 21:27:29,386 - CoverFoxTest -INFO - Clicking On the next Button
+2024-08-12 21:27:30,064 - CoverFoxTest -INFO - Clicking On the next Button
+2024-08-12 21:27:30,073 - CoverFoxTest -WARN - Enter age between 18 to 90
+2024-08-12 21:27:35,445 - CoverFoxTest -INFO - Selecting the age from dropdown
+2024-08-12 21:27:37,504 - CoverFoxTest -INFO - Clicking On the next Button
+2024-08-12 21:27:37,507 - CoverFoxTest -WARN - Enter valid PinCode & MobNumber
+2024-08-12 21:27:40,362 - CoverFoxTest -INFO - Entering PinCode & MobNumber
+2024-08-12 21:27:40,937 - CoverFoxTest -INFO - Clicking On the continue Button
+2024-08-12 21:27:48,161 - CoverFoxTest -INFO - Validating Banners
+2024-08-12 21:27:48,287 - CoverFoxTest -INFO - Validating testPlan element
+2024-08-12 21:27:53,200 - CoverFoxTest -INFO - Closing the browser
+2024-08-12 21:49:38,026 - CoverFoxTest -INFO - Opening Browser
+2024-08-12 21:49:42,474 - CoverFoxTest -INFO - Clicking On the next Button
+2024-08-12 21:50:55,820 - CoverFoxTest -INFO - Opening Browser
+2024-08-12 21:50:59,084 - CoverFoxTest -INFO - Clicking On the next Button
+2024-08-12 21:52:48,838 - CoverFoxTest -INFO - Opening Browser
+2024-08-12 21:53:06,254 - CoverFoxTest -INFO - Clicking On the next Button
+2024-08-12 21:53:06,333 - CoverFoxTest -INFO - Clicking On the next Button
+2024-08-12 21:53:06,338 - CoverFoxTest -WARN - Enter age between 18 to 90
+2024-08-12 21:53:12,571 - CoverFoxTest -INFO - Selecting the age from dropdown
+2024-08-12 21:53:14,666 - CoverFoxTest -INFO - Clicking On the next Button
+2024-08-12 21:53:14,669 - CoverFoxTest -WARN - Enter valid PinCode & MobNumber
+2024-08-12 21:53:16,339 - CoverFoxTest -INFO - Entering PinCode & MobNumber
+2024-08-12 21:53:16,416 - CoverFoxTest -INFO - Clicking On the continue Button
+2024-08-12 21:53:22,496 - CoverFoxTest -INFO - Validating Banners
+2024-08-12 21:53:22,589 - CoverFoxTest -INFO - Validating testPlan element
+2024-08-12 21:53:26,288 - CoverFoxTest -INFO - Closing the browser
